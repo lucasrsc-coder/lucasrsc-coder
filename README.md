@@ -1,7 +1,7 @@
 # 👨‍🎓 Sobre mim
 - Nome: Lucas (ou Lucas Costa)
 - Curso: Ciência da Computação
-- Turma: [coloque sua turma aqui]
+- Turma: [CC1TA]
 
 ## 💻 Interesses na área
 - Programação
